@@ -2,14 +2,18 @@
 
 ## Tutorial de instalação e execução do projeto
 
+- Instale o ambiente virtual para fazer download dos pacotes desacoplada da sua máquina
+
 ``` pip install python3-venv ```
 
-- Instale o ambiente virtual para fazer download dos pacotes desacoplada da sua máquina
+- Ative o ambiente virtual
 
 ``` source moors/bin/activate ```
 
-- Ative o ambiente virtual 
+- Instale os pacotes
 
 ``` python3 -m pip install -U pygame ```
 
-- Instale os pacotes
+- Execute o projeto
+
+``` python3 app.py ```
