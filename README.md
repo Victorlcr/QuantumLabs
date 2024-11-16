@@ -4,11 +4,13 @@
 
 - Instale o ambiente virtual para fazer download dos pacotes desacoplada da sua máquina
 
+``` sudo apt update ```
+``` sudo apt-get install python3-pip ```
 ``` pip install python3-venv ```
 
 - Ative o ambiente virtual
 
-``` source moors/bin/activate ```
+``` source QuantumLabs/bin/activate ```
 
 - Instale os pacotes
 
